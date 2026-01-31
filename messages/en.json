@@ -1,0 +1,83 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "description": "Welcome to our internationalized app"
+  },
+  "LanguageSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "es": "Spanish"
+  },
+  "Auth": {
+    "title": "Sign in to your account",
+    "subtitle": "Continue with your Google account",
+    "googleButton": "Continue with Google",
+    "loading": "Loading..."
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome, {name}!",
+    "description": "You are now signed in to your dashboard.",
+    "signOut": "Sign out",
+    "loading": "Loading..."
+  },
+  "Landing": {
+    "nav": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "signIn": "Sign In",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "badge": "Construction Documentation",
+      "title": "Streamline Your",
+      "titleHighlight": "Construction Projects",
+      "description": "The all-in-one platform for managing construction documentation, photos, and project communication. Keep your team aligned and your projects on track.",
+      "cta": "Start Free Trial",
+      "ctaSecondary": "Watch Demo"
+    },
+    "features": {
+      "title": "Everything you need to manage construction projects",
+      "description": "Powerful tools designed for construction professionals",
+      "photos": {
+        "title": "Photo Documentation",
+        "description": "Capture, organize, and share project photos with automatic metadata, location tagging, and AI-powered categorization."
+      },
+      "zones": {
+        "title": "Zone Management",
+        "description": "Organize your projects by zones and sub-zones. Track progress across different areas with visual dashboards."
+      },
+      "notes": {
+        "title": "Project Notes",
+        "description": "Keep detailed notes for every aspect of your project. Attach notes to specific photos, zones, or the overall project."
+      },
+      "collaboration": {
+        "title": "Team Collaboration",
+        "description": "Invite team members, assign roles, and keep everyone in sync with real-time updates and notifications."
+      }
+    },
+    "cta": {
+      "title": "Ready to transform your construction workflow?",
+      "description": "Join thousands of construction professionals who trust RenoSync Pro for their documentation needs.",
+      "button": "Get Started Today"
+    },
+    "footer": {
+      "copyright": "RenoSync Pro. All rights reserved.",
+      "tagline": "Built for construction professionals."
+    }
+  },
+  "Changelog": {
+    "title": "Changelog",
+    "description": "All notable changes to RenoSync Pro are documented here.",
+    "backHome": "Back to home",
+    "latest": "Latest",
+    "types": {
+      "added": "Added",
+      "changed": "Changed",
+      "fixed": "Fixed",
+      "removed": "Removed"
+    },
+    "moreHistory": "Looking for more history?",
+    "viewGithub": "View full changelog on GitHub"
+  }
+}

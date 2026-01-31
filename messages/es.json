@@ -1,0 +1,83 @@
+{
+  "HomePage": {
+    "title": "Hola mundo!",
+    "description": "Bienvenido a nuestra aplicacion internacionalizada"
+  },
+  "LanguageSwitcher": {
+    "label": "Idioma",
+    "en": "Ingles",
+    "es": "Espanol"
+  },
+  "Auth": {
+    "title": "Inicia sesion en tu cuenta",
+    "subtitle": "Continua con tu cuenta de Google",
+    "googleButton": "Continuar con Google",
+    "loading": "Cargando..."
+  },
+  "Dashboard": {
+    "title": "Panel de control",
+    "welcome": "Bienvenido, {name}!",
+    "description": "Has iniciado sesion en tu panel de control.",
+    "signOut": "Cerrar sesion",
+    "loading": "Cargando..."
+  },
+  "Landing": {
+    "nav": {
+      "features": "Caracteristicas",
+      "pricing": "Precios",
+      "signIn": "Iniciar Sesion",
+      "getStarted": "Comenzar"
+    },
+    "hero": {
+      "badge": "Documentacion de Construccion",
+      "title": "Optimiza Tus",
+      "titleHighlight": "Proyectos de Construccion",
+      "description": "La plataforma todo-en-uno para gestionar documentacion de construccion, fotos y comunicacion del proyecto. Mantiene a tu equipo alineado y tus proyectos en marcha.",
+      "cta": "Prueba Gratuita",
+      "ctaSecondary": "Ver Demo"
+    },
+    "features": {
+      "title": "Todo lo que necesitas para gestionar proyectos de construccion",
+      "description": "Herramientas poderosas disenadas para profesionales de la construccion",
+      "photos": {
+        "title": "Documentacion Fotografica",
+        "description": "Captura, organiza y comparte fotos del proyecto con metadatos automaticos, etiquetado de ubicacion y categorizacion con IA."
+      },
+      "zones": {
+        "title": "Gestion de Zonas",
+        "description": "Organiza tus proyectos por zonas y sub-zonas. Rastrea el progreso en diferentes areas con paneles visuales."
+      },
+      "notes": {
+        "title": "Notas del Proyecto",
+        "description": "Mantiene notas detalladas para cada aspecto de tu proyecto. Adjunta notas a fotos especificas, zonas o al proyecto general."
+      },
+      "collaboration": {
+        "title": "Colaboracion en Equipo",
+        "description": "Invita a miembros del equipo, asigna roles y mantiene a todos sincronizados con actualizaciones y notificaciones en tiempo real."
+      }
+    },
+    "cta": {
+      "title": "Listo para transformar tu flujo de trabajo de construccion?",
+      "description": "Unete a miles de profesionales de la construccion que confian en RenoSync Pro para sus necesidades de documentacion.",
+      "button": "Comenzar Hoy"
+    },
+    "footer": {
+      "copyright": "RenoSync Pro. Todos los derechos reservados.",
+      "tagline": "Construido para profesionales de la construccion."
+    }
+  },
+  "Changelog": {
+    "title": "Historial de Cambios",
+    "description": "Todos los cambios notables de RenoSync Pro estan documentados aqui.",
+    "backHome": "Volver al inicio",
+    "latest": "Ultimo",
+    "types": {
+      "added": "Agregado",
+      "changed": "Cambiado",
+      "fixed": "Corregido",
+      "removed": "Eliminado"
+    },
+    "moreHistory": "Buscas mas historial?",
+    "viewGithub": "Ver historial completo en GitHub"
+  }
+}
