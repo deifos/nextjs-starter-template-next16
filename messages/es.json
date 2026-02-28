@@ -23,52 +23,66 @@
   },
   "Landing": {
     "nav": {
-      "features": "Caracteristicas",
-      "pricing": "Precios",
+      "brand": "Starter",
+      "features": "Funciones",
+      "stack": "Tecnologias",
       "signIn": "Iniciar Sesion",
       "getStarted": "Comenzar"
     },
     "hero": {
-      "badge": "Documentacion de Construccion",
-      "title": "Optimiza Tus",
-      "titleHighlight": "Proyectos de Construccion",
-      "description": "La plataforma todo-en-uno para gestionar documentacion de construccion, fotos y comunicacion del proyecto. Mantiene a tu equipo alineado y tus proyectos en marcha.",
-      "cta": "Prueba Gratuita",
-      "ctaSecondary": "Ver Demo"
-    },
-    "features": {
-      "title": "Todo lo que necesitas para gestionar proyectos de construccion",
-      "description": "Herramientas poderosas disenadas para profesionales de la construccion",
-      "photos": {
-        "title": "Documentacion Fotografica",
-        "description": "Captura, organiza y comparte fotos del proyecto con metadatos automaticos, etiquetado de ubicacion y categorizacion con IA."
-      },
-      "zones": {
-        "title": "Gestion de Zonas",
-        "description": "Organiza tus proyectos por zonas y sub-zonas. Rastrea el progreso en diferentes areas con paneles visuales."
-      },
-      "notes": {
-        "title": "Notas del Proyecto",
-        "description": "Mantiene notas detalladas para cada aspecto de tu proyecto. Adjunta notas a fotos especificas, zonas o al proyecto general."
-      },
-      "collaboration": {
-        "title": "Colaboracion en Equipo",
-        "description": "Invita a miembros del equipo, asigna roles y mantiene a todos sincronizados con actualizaciones y notificaciones en tiempo real."
+      "badge": "Plantilla Starter de Codigo Abierto",
+      "title": "Cada Gran Producto",
+      "titleHighlight": "Empieza Aqui",
+      "description": "Auth, i18n, base de datos y componentes UI — todo listo para produccion. Deja de configurar infraestructura. Empieza a construir lo que importa.",
+      "cta": "Empieza a Construir",
+      "ctaSecondary": "Explorar Funciones",
+      "terminal": {
+        "auth": "Autenticacion configurada (Better Auth + Google OAuth)",
+        "i18n": "Internacionalizacion lista (EN/ES con next-intl)",
+        "database": "Base de datos conectada (PostgreSQL + Prisma ORM)",
+        "ui": "Componentes UI instalados (shadcn/ui + Tailwind CSS)",
+        "ready": "\u2713 Listo en http://localhost:3000"
       }
     },
+    "features": {
+      "label": "Funciones Incluidas",
+      "title": "Todo lo que necesitas para enviar mas rapido",
+      "description": "Cada gran producto comienza con una base solida. Este starter te da lo esencial para que puedas enfocarte en lo que hace unica a tu app.",
+      "auth": {
+        "title": "Autenticacion",
+        "description": "Pre-configurado con Better Auth soportando email/password y Google OAuth. Gestion de sesiones, rutas protegidas y perfiles de usuario — listo para usar."
+      },
+      "i18n": {
+        "title": "Internacionalizacion",
+        "description": "Configuracion completa de i18n con next-intl. Ingles y Espanol incluidos como punto de partida. Cambio de idioma basado en cookies con soporte de renderizado del servidor."
+      },
+      "database": {
+        "title": "Base de Datos y ORM",
+        "description": "PostgreSQL con Prisma ORM, pre-configurado con tablas de autenticacion, migraciones y un patron de cliente singleton. Listo para tus modelos de datos."
+      },
+      "components": {
+        "title": "Componentes UI",
+        "description": "Componentes hermosos y accesibles de shadcn/ui con primitivos Radix. Tailwind CSS v4, soporte de modo oscuro y un sistema de diseno consistente integrado."
+      }
+    },
+    "stack": {
+      "title": "Construido sobre bases modernas",
+      "description": "Tecnologias cuidadosamente seleccionadas que funcionan perfectamente juntas. Sin compromisos."
+    },
     "cta": {
-      "title": "Listo para transformar tu flujo de trabajo de construccion?",
-      "description": "Unete a miles de profesionales de la construccion que confian en RenoSync Pro para sus necesidades de documentacion.",
-      "button": "Comenzar Hoy"
+      "badge": "Tu Viaje Comienza Aqui",
+      "title": "Tu plataforma de lanzamiento esta lista",
+      "description": "Clonalo. Configuralo. Envialo. La base esta construida — ahora ve a crear algo que el mundo necesita.",
+      "button": "Empieza a Construir Ahora"
     },
     "footer": {
-      "copyright": "RenoSync Pro. Todos los derechos reservados.",
-      "tagline": "Construido para profesionales de la construccion."
+      "copyright": "Next.js Starter Template. Todos los derechos reservados.",
+      "tagline": "Construido para creadores que entregan."
     }
   },
   "Changelog": {
     "title": "Historial de Cambios",
-    "description": "Todos los cambios notables de RenoSync Pro estan documentados aqui.",
+    "description": "Todos los cambios notables de este proyecto estan documentados aqui.",
     "backHome": "Volver al inicio",
     "latest": "Ultimo",
     "types": {

@@ -23,52 +23,66 @@
   },
   "Landing": {
     "nav": {
+      "brand": "Starter",
       "features": "Features",
-      "pricing": "Pricing",
+      "stack": "Stack",
       "signIn": "Sign In",
       "getStarted": "Get Started"
     },
     "hero": {
-      "badge": "Construction Documentation",
-      "title": "Streamline Your",
-      "titleHighlight": "Construction Projects",
-      "description": "The all-in-one platform for managing construction documentation, photos, and project communication. Keep your team aligned and your projects on track.",
-      "cta": "Start Free Trial",
-      "ctaSecondary": "Watch Demo"
-    },
-    "features": {
-      "title": "Everything you need to manage construction projects",
-      "description": "Powerful tools designed for construction professionals",
-      "photos": {
-        "title": "Photo Documentation",
-        "description": "Capture, organize, and share project photos with automatic metadata, location tagging, and AI-powered categorization."
-      },
-      "zones": {
-        "title": "Zone Management",
-        "description": "Organize your projects by zones and sub-zones. Track progress across different areas with visual dashboards."
-      },
-      "notes": {
-        "title": "Project Notes",
-        "description": "Keep detailed notes for every aspect of your project. Attach notes to specific photos, zones, or the overall project."
-      },
-      "collaboration": {
-        "title": "Team Collaboration",
-        "description": "Invite team members, assign roles, and keep everyone in sync with real-time updates and notifications."
+      "badge": "Open Source Starter Template",
+      "title": "Every Great Product",
+      "titleHighlight": "Starts Right Here",
+      "description": "Auth, i18n, database, and UI components — all production-ready. Stop configuring infrastructure. Start building what matters.",
+      "cta": "Start Building",
+      "ctaSecondary": "Explore Features",
+      "terminal": {
+        "auth": "Authentication configured (Better Auth + Google OAuth)",
+        "i18n": "Internationalization ready (EN/ES with next-intl)",
+        "database": "Database connected (PostgreSQL + Prisma ORM)",
+        "ui": "UI components installed (shadcn/ui + Tailwind CSS)",
+        "ready": "\u2713 Ready on http://localhost:3000"
       }
     },
+    "features": {
+      "label": "Built-in Features",
+      "title": "Everything you need to ship faster",
+      "description": "Every great product starts with a solid foundation. This starter gives you the essentials so you can focus on what makes your app unique.",
+      "auth": {
+        "title": "Authentication",
+        "description": "Pre-configured with Better Auth supporting email/password and Google OAuth. Session management, protected routes, and user profiles — ready out of the box."
+      },
+      "i18n": {
+        "title": "Internationalization",
+        "description": "Full i18n setup with next-intl. English and Spanish included as a starting point. Cookie-based locale switching with server-side rendering support."
+      },
+      "database": {
+        "title": "Database & ORM",
+        "description": "PostgreSQL with Prisma ORM, pre-configured with auth tables, migrations, and a singleton client pattern. Ready for your data models."
+      },
+      "components": {
+        "title": "UI Components",
+        "description": "Beautiful, accessible components from shadcn/ui with Radix primitives. Tailwind CSS v4, dark mode support, and a consistent design system baked in."
+      }
+    },
+    "stack": {
+      "title": "Built on modern foundations",
+      "description": "Carefully selected technologies that work beautifully together. No compromises."
+    },
     "cta": {
-      "title": "Ready to transform your construction workflow?",
-      "description": "Join thousands of construction professionals who trust RenoSync Pro for their documentation needs.",
-      "button": "Get Started Today"
+      "badge": "Your Journey Starts Here",
+      "title": "Your launchpad is ready",
+      "description": "Clone it. Configure it. Ship it. The foundation is built — now go create something the world needs.",
+      "button": "Start Building Now"
     },
     "footer": {
-      "copyright": "RenoSync Pro. All rights reserved.",
-      "tagline": "Built for construction professionals."
+      "copyright": "Next.js Starter Template. All rights reserved.",
+      "tagline": "Built for builders who ship."
     }
   },
   "Changelog": {
     "title": "Changelog",
-    "description": "All notable changes to RenoSync Pro are documented here.",
+    "description": "All notable changes to this project are documented here.",
     "backHome": "Back to home",
     "latest": "Latest",
     "types": {
